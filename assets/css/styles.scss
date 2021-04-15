@@ -4,7 +4,7 @@ h2.headline {
 }
 
 header {
-  &.site-header {
+  &.site_header {
     background-color: #0a202b;
     height: 100px;
 
@@ -12,5 +12,20 @@ header {
       color: #ffffff;
 
     }
+  }
+}
+
+.page_content {
+  background: #f9f6f0;
+}
+
+.page_banner {
+  min-height: 170px;
+  background: #256d4e;
+
+  &__title {
+    color: #f9f2e8;
+    font-family: "Oswald",sans-serif;
+    font-weight: 400;
   }
 }
