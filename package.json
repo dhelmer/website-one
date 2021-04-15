@@ -1,4 +1,8 @@
 {
+  "name": "website-one",
+  "scripts": {
+    "do-sass": "sass assets/css/styles.scss assets/css/styles.css"
+  },
   "dependencies": {
     "dart-sass": "^1.25.0"
   }
