@@ -131,11 +131,15 @@ header.site_header h2 {
 @media (min-width: 768px) and (max-width: 1023px) {
   .page_banner__title {
     font-size: 25px;
+    padding-top: 25px;
+    padding-left: 25px;
   }
 }
 @media (min-width: 1024px) {
   .page_banner__title {
     font-size: 52px;
+    padding-top: 52px;
+    padding-left: 52px;
   }
 }
 
