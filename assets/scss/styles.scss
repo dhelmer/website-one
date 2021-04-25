@@ -39,6 +39,15 @@ header {
   }
 }
 
+.photo-main {
+  width: 400px;
+  margin: 0 auto;
+
+  img {
+    width: 100%;
+  }
+}
+
 .page_content {
   background: #f9f6f0;
   margin: 0 auto;

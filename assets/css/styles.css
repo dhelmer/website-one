@@ -130,6 +130,14 @@ header a {
   margin-left: 30px;
 }
 
+.photo-main {
+  width: 400px;
+  margin: 0 auto;
+}
+.photo-main img {
+  width: 100%;
+}
+
 .page_content {
   background: #f9f6f0;
   margin: 0 auto;
