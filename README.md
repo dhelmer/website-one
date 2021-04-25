@@ -1,11 +1,6 @@
-# website-one
+<img class="photo-main" src="assets/img/gail-helmer-crop-01.jpg" />
 
-This is a test.
+<span class="names">Helmer, Gail Lynn (nee Langridge)</span>
+<span class="dates">May 10, 1966 - April 16, 2021</span>
 
-This is some random text.
-
-<h2 class="headline">H2 Headline Roboto</h2>
-
-<h2>Regular H2 Headline</h2>
-
-Some test content. Some more content. V12.
+<p>V12.</p>
