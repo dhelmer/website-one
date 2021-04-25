@@ -58,9 +58,11 @@ header {
 
 
   .names, .dates {
-    font-size: 30px;
-    display: block;
+    font-size: 25px;
+    width: 400px;
     margin: 0 auto;
+    line-height: 1.5;
+    text-align: center;
   }
 }
 

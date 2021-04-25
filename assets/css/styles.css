@@ -146,9 +146,11 @@ header a {
   padding: 35px 50px 35px 50px;
 }
 .page_content .names, .page_content .dates {
-  font-size: 30px;
-  display: block;
+  font-size: 25px;
+  width: 400px;
   margin: 0 auto;
+  line-height: 1.5;
+  text-align: center;
 }
 
 .page_banner {
