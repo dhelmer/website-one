@@ -1,6 +1,8 @@
-<img class="photo-main" src="assets/img/gail-helmer-375x409.jpg" />
+<div class="photo-main">
+  <img src="assets/img/gail-helmer-375x409.jpg" />
+</div>
 
-<span class="names">Helmer, Gail Lynn (nee Langridge)</span>
-<span class="dates">May 10, 1966 - April 16, 2021</span>
+<div class="names">Helmer, Gail Lynn (nee Langridge)</div>
+<div class="dates">May 10, 1966 - April 16, 2021</div>
 
 <p>V15.</p>
