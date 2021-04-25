@@ -13,7 +13,7 @@
   
   <p>Gail was predeceased by her brother Gary Langridge and father Cyril Langridge.</p>
   
-  <p>In lieu of flowers, Gail wished for friends and family to consider making a donation to <a href="https://www.hospicecalgary.ca/donatenow/" target="_blank">Rosedale Hospice</a></p>
+  <p>In lieu of flowers, Gail wished for friends and family to consider making a donation to <a href="https://www.hospicecalgary.ca/donatenow/" target="_blank">Rosedale Hospice</a>.</p>
 
 
 </div>
