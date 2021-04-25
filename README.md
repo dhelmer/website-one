@@ -5,4 +5,4 @@
 <div class="names">Helmer, Gail Lynn (nee Langridge)</div>
 <div class="dates">May 10, 1966 - April 16, 2021</div>
 
-<p>V18.</p>
+<p>V19.</p>
