@@ -162,6 +162,9 @@ header a {
   font-family: "Oswald", sans-serif;
   font-weight: 400;
   text-shadow: 1px 1px 0 #1e5f42;
+  font-size: 52px;
+  padding-top: 52px;
+  padding-left: 52px;
 }
 @media (min-width: 576px) {
   .page_banner__title {
