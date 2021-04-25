@@ -153,6 +153,9 @@ header a {
   line-height: 1.5;
   text-align: center;
 }
+.page_content .obit-text p {
+  margin-top: 15px;
+}
 
 .page_banner {
   min-height: 170px;
