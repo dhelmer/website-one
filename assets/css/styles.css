@@ -146,6 +146,7 @@ header a {
   padding: 35px 50px 35px 50px;
 }
 .page_content .names, .page_content .dates {
+  font-family: "Roboto", sans-serif;
   font-size: 25px;
   width: 400px;
   margin: 0 auto;
