@@ -113,6 +113,9 @@ header.site_header {
 header.site_header h2 {
   color: #ffffff;
 }
+header a {
+  text-decoration: none;
+}
 
 .site_logo {
   position: absolute;
