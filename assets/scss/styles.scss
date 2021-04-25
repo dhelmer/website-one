@@ -22,6 +22,19 @@ header {
   }
 }
 
+.site_logo {
+  position: absolute;
+  z-index: 100;
+  top: 32px;
+
+  &__domain_name {
+    color: #fff4e1;
+    font-family: "Oswald",sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+  }
+}
+
 .page_content {
   background: #f9f6f0;
 }
