@@ -68,8 +68,12 @@ header {
   }
 
   .obit-text {
+    font-family: "Roboto",sans-serif;
+    width: 400px;
+    margin: 0 auto;
     p {
       margin-top: 15px;
+      font-size: 20px;
     }
   }
 }
