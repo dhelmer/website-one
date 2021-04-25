@@ -17,7 +17,6 @@ header {
 
     h2 {
       color: #ffffff;
-
     }
   }
 
@@ -43,7 +42,11 @@ header {
 .page_content {
   background: #f9f6f0;
   margin: 0 auto;
-  padding: 35px 50px 35px 50px;
+
+  &__padding {
+    padding: 35px 50px 35px 50px;
+  }
+
 
   .names, .dates {
     font-size: 30px;
