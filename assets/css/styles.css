@@ -149,7 +149,7 @@ header a {
   font-family: "Roboto", sans-serif;
   font-size: 25px;
   width: 400px;
-  margin: 0 auto;
+  margin: 15px auto;
   line-height: 1.5;
   text-align: center;
 }
@@ -161,6 +161,8 @@ header a {
 .page_content .obit-text p {
   margin-top: 15px;
   font-size: 20px;
+  line-height: 1.75;
+  color: #595143;
 }
 
 .page_banner {
