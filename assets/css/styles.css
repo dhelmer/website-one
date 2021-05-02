@@ -135,7 +135,8 @@ header a {
   margin: 0 auto;
 }
 .photo-main img {
-  width: 100%;
+  max-width: 100%;
+  height: auto;
 }
 
 .page_content {
@@ -198,6 +199,23 @@ header a {
     padding-top: 52px;
     padding-left: 52px;
   }
+}
+
+.site_footer {
+  padding: 40px 0;
+  background: #226146;
+  color: #4cb88a;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  text-align: center;
+}
+.site_footer .note {
+  font-size: 12px;
+  font-style: italic;
+  margin-top: 12px;
+}
+.site_footer a {
+  color: #f9f6f0;
 }
 
 /*# sourceMappingURL=styles.css.map */

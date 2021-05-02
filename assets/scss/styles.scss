@@ -45,7 +45,8 @@ header {
   margin: 0 auto;
 
   img {
-    width: 100%;
+    max-width: 100%;
+    height: auto;
   }
 }
 
@@ -113,5 +114,26 @@ header {
     }
   }
 }
+
+.site_footer {
+  padding: 40px 0;
+  background: #226146;
+  color: #4cb88a;
+  font-family: "Roboto",sans-serif;
+  font-size: 14px;
+  text-align: center;
+
+  .note {
+    font-size: 12px;
+    font-style: italic;
+    margin-top: 12px;
+  }
+
+  a {
+    color: #f9f6f0;
+  }
+}
+
+
 
 
